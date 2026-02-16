@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 6
-- **Easy:** 5 🟢
+- **Total Problems Solved:** 7
+- **Easy:** 6 🟢
 - **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1921552624/) | 🟢 Easy | cpp | 2026-02-16 |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1921546930/) | 🟢 Easy | cpp | 2026-02-16 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |

@@ -1,7 +1,7 @@
 /*
  * Problem: 94. Binary Tree Inorder Traversal
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/
+ * Link: https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/
  * Language: cpp
  * Date: 2026-02-17
  */
@@ -19,15 +19,21 @@
  */
 class Solution {
 public:
-    void traversal(TreeNode* cur, vector<int>& res) {
-        if (cur == nullptr) return;
-        traversal(cur->left, res);
-        res.push_back(cur->val);
-        traversal(cur->right, res);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
+        stack<TreeNode*> st;
         vector<int> res;
-        traversal(root, res);
+        TreeNode* cur = root;
+        while (!st.empty() || cur != nullptr) {
+            if (cur != nullptr) {
+                st.push(cur);
+                cur = cur->left;
+            } else {
+                cur = st.top();
+                st.pop();
+                res.push_back(cur->val);
+                cur = cur->right;
+            }
+        }
         return res;
     }
 };

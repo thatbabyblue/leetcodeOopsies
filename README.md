@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 31
-- **Easy:** 20 🟢
+- **Total Problems Solved:** 32
+- **Easy:** 21 🟢
 - **Medium:** 10 🟡
 - **Hard:** 1 🔴
 
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | cpp | 2026-02-16 |
 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1921360487/) | 🟢 Easy | cpp | 2026-02-16 |
+| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1922835026/) | 🟢 Easy | cpp | 2026-02-18 |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | 🟢 Easy | cpp | 2026-02-18 |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1922530963/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |

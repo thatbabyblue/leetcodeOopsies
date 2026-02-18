@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 39
-- **Easy:** 27 🟢
+- **Total Problems Solved:** 40
+- **Easy:** 28 🟢
 - **Medium:** 11 🟡
 - **Hard:** 1 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1921562431/) | 🟢 Easy | cpp | 2026-02-16 |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1922936691/) | 🟢 Easy | cpp | 2026-02-18 |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1922866198/) | 🟢 Easy | cpp | 2026-02-18 |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/submissions/1923757479/) | 🟢 Easy | cpp | 2026-02-18 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | cpp | 2026-02-17 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921657178/) | 🟢 Easy | cpp | 2026-02-17 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921668454/) | 🟢 Easy | cpp | 2026-02-17 |

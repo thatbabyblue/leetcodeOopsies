@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
-- **Easy:** 22 🟢
+- **Total Problems Solved:** 34
+- **Easy:** 23 🟢
 - **Medium:** 10 🟡
 - **Hard:** 1 🔴
 
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921657178/) | 🟢 Easy | cpp | 2026-02-17 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921668454/) | 🟢 Easy | cpp | 2026-02-17 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1921559232/) | 🟢 Easy | cpp | 2026-02-16 |
+| [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/1922889220/) | 🟢 Easy | cpp | 2026-02-18 |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1921552624/) | 🟢 Easy | cpp | 2026-02-16 |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/1922690063/) | 🟢 Easy | cpp | 2026-02-18 |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1921546930/) | 🟢 Easy | cpp | 2026-02-16 |

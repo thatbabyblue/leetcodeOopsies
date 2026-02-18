@@ -1,7 +1,7 @@
 /*
  * Problem: 404. Sum of Left Leaves
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/sum-of-left-leaves/submissions/1922988463/
+ * Link: https://leetcode.com/problems/sum-of-left-leaves/submissions/1922996414/
  * Language: cpp
  * Date: 2026-02-18
  */
@@ -20,12 +20,20 @@
 class Solution {
 public:
     int sumOfLeftLeaves(TreeNode* root) {
+        stack<TreeNode*> st;
         if (root == nullptr) return 0;
-        int leftSum = sumOfLeftLeaves(root->left);
-        if (root->left && !root->left->left && !root->left->right) {
-            leftSum = root->left->val; 
+        st.push(root);
+        int sum = 0;
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+            if (node->left && !node->left->left && !node->left->right) {
+                sum += node->left->val;
+            }
+            if (node->right) st.push(node->right);
+            if (node->left) st.push(node->left);
         }
-        int rightSum = sumOfLeftLeaves(root->right);
-        return leftSum + rightSum;
+        return sum;
+
     }
 };

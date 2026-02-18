@@ -1,9 +1,9 @@
 /*
  * Problem: 104. Maximum Depth of Binary Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922640473/
+ * Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922825086/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-02-18
  */
 
 /**
@@ -19,20 +19,13 @@
  */
 class Solution {
 public:
+    int getDepth(TreeNode* node) {
+        if (node == nullptr) return 0;
+        int leftDepth = getDepth(node->left);
+        int rightDepth = getDepth(node->right);
+        return 1 + max(leftDepth, rightDepth);
+    }
     int maxDepth(TreeNode* root) {
-        queue<TreeNode*> que;
-        int depth = 0;
-        if (root != nullptr) que.push(root);
-        while (!que.empty()) {
-            int size = que.size();
-            depth++;
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = que.front();
-                que.pop();
-                if (node->left) que.push(node->left);
-                if (node->right) que.push(node->right);
-            }
-        }
-        return depth;
+        return getDepth(root);
     }
 };

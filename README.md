@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 35
-- **Easy:** 24 🟢
+- **Total Problems Solved:** 36
+- **Easy:** 25 🟢
 - **Medium:** 10 🟡
 - **Hard:** 1 🔴
 
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1921552624/) | 🟢 Easy | cpp | 2026-02-16 |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/1922690063/) | 🟢 Easy | cpp | 2026-02-18 |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1921546930/) | 🟢 Easy | cpp | 2026-02-16 |
+| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/1922970645/) | 🟢 Easy | cpp | 2026-02-18 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | cpp | 2026-02-16 |

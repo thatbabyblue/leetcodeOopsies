@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
-- **Easy:** 17 🟢
+- **Total Problems Solved:** 29
+- **Easy:** 18 🟢
 - **Medium:** 10 🟡
 - **Hard:** 1 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/1922713902/) | 🟢 Easy | cpp | 2026-02-18 |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1922702164/) | 🟢 Easy | cpp | 2026-02-18 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922640473/) | 🟢 Easy | cpp | 2026-02-17 |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1921562431/) | 🟢 Easy | cpp | 2026-02-16 |

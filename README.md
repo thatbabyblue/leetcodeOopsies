@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Easy:** 28 🟢
-- **Medium:** 11 🟡
+- **Medium:** 12 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -43,6 +43,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | 🟡 Medium | cpp | 2026-02-17 |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/1923763568/) | 🟡 Medium | cpp | 2026-02-18 |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/1922635585/) | 🟡 Medium | cpp | 2026-02-17 |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/1922636744/) | 🟡 Medium | cpp | 2026-02-17 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1921567968/) | 🟡 Medium | cpp | 2026-02-16 |

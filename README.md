@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 48
-- **Easy:** 31 🟢
+- **Total Problems Solved:** 49
+- **Easy:** 32 🟢
 - **Medium:** 16 🟡
 - **Hard:** 1 🔴
 
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922988463/) | 🟢 Easy | cpp | 2026-02-18 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922996414/) | 🟢 Easy | cpp | 2026-02-18 |
 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | cpp | 2026-02-16 |
+| [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/1924030186/) | 🟢 Easy | cpp | 2026-02-19 |
 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1921360487/) | 🟢 Easy | cpp | 2026-02-16 |
 | [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1922835026/) | 🟢 Easy | cpp | 2026-02-18 |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | 🟢 Easy | cpp | 2026-02-18 |

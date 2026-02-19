@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Easy:** 28 🟢
-- **Medium:** 13 🟡
+- **Medium:** 14 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -42,6 +42,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1923876394/) | 🟡 Medium | cpp | 2026-02-19 |
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/1923868842/) | 🟡 Medium | cpp | 2026-02-19 |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | 🟡 Medium | cpp | 2026-02-17 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/1923763568/) | 🟡 Medium | cpp | 2026-02-18 |

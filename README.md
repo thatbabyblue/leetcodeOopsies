@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 31 🟢
-- **Medium:** 15 🟡
+- **Medium:** 16 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -59,6 +59,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/1923004411/) | 🟡 Medium | cpp | 2026-02-18 |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/) | 🟡 Medium | cpp | 2026-02-17 |
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/1923891775/) | 🟡 Medium | cpp | 2026-02-19 |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1924008727/) | 🟡 Medium | cpp | 2026-02-19 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/1921628846/) | 🔴 Hard | cpp | 2026-02-17 |
 
 ---

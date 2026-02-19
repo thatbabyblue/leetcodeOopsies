@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 53
+- **Total Problems Solved:** 54
 - **Easy:** 33 🟢
-- **Medium:** 19 🟡
+- **Medium:** 20 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -60,6 +60,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1924727800/) | 🟡 Medium | cpp | 2026-02-19 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | 🟡 Medium | cpp | 2026-02-17 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
+| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1924818277/) | 🟡 Medium | cpp | 2026-02-19 |
 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/1923004411/) | 🟡 Medium | cpp | 2026-02-18 |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/) | 🟡 Medium | cpp | 2026-02-17 |
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/1923891775/) | 🟡 Medium | cpp | 2026-02-19 |

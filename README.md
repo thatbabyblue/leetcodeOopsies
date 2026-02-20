@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 62
+- **Total Problems Solved:** 63
 - **Easy:** 34 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -54,6 +54,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/1923763568/) | 🟡 Medium | cpp | 2026-02-18 |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/1922635585/) | 🟡 Medium | cpp | 2026-02-17 |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/1922636744/) | 🟡 Medium | cpp | 2026-02-17 |
+| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/1925141701/) | 🟡 Medium | cpp | 2026-02-20 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1921567968/) | 🟡 Medium | cpp | 2026-02-16 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1921438690/) | 🟡 Medium | cpp | 2026-02-16 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1925027274/) | 🟡 Medium | cpp | 2026-02-20 |

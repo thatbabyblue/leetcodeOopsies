@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 70
-- **Easy:** 35 🟢
+- **Total Problems Solved:** 71
+- **Easy:** 36 🟢
 - **Medium:** 34 🟡
 - **Hard:** 1 🔴
 
@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/1925794641/) | 🟢 Easy | cpp | 2026-02-20 |
 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | cpp | 2026-02-16 |
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/1924047861/) | 🟢 Easy | cpp | 2026-02-19 |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1925804360/) | 🟢 Easy | cpp | 2026-02-20 |
 | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/1924030186/) | 🟢 Easy | cpp | 2026-02-19 |
 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1921360487/) | 🟢 Easy | cpp | 2026-02-16 |
 | [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1922835026/) | 🟢 Easy | cpp | 2026-02-18 |

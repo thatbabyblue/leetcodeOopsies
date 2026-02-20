@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 58
+- **Total Problems Solved:** 59
 - **Easy:** 34 🟢
-- **Medium:** 23 🟡
+- **Medium:** 24 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -57,6 +57,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1921567968/) | 🟡 Medium | cpp | 2026-02-16 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1921438690/) | 🟡 Medium | cpp | 2026-02-16 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/) | 🟡 Medium | cpp | 2026-02-17 |
+| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/1925008846/) | 🟡 Medium | cpp | 2026-02-20 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1924727800/) | 🟡 Medium | cpp | 2026-02-19 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | 🟡 Medium | cpp | 2026-02-17 |

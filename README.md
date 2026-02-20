@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 71
-- **Easy:** 36 🟢
+- **Total Problems Solved:** 72
+- **Easy:** 37 🟢
 - **Medium:** 34 🟡
 - **Hard:** 1 🔴
 
@@ -46,6 +46,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923978077/) | 🟢 Easy | cpp | 2026-02-19 |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923980393/) | 🟢 Easy | cpp | 2026-02-19 |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1922530963/) | 🟢 Easy | cpp | 2026-02-17 |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1925807661/) | 🟢 Easy | cpp | 2026-02-20 |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-19 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |

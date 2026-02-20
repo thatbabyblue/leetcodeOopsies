@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 67
+- **Total Problems Solved:** 68
 - **Easy:** 34 🟢
-- **Medium:** 32 🟡
+- **Medium:** 33 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -67,6 +67,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/1925120374/) | 🟡 Medium | cpp | 2026-02-20 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1924818277/) | 🟡 Medium | cpp | 2026-02-19 |
+| [46. Permutations](https://leetcode.com/problems/permutations/submissions/1925724271/) | 🟡 Medium | cpp | 2026-02-20 |
 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/submissions/1925717531/) | 🟡 Medium | cpp | 2026-02-20 |
 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/1923004411/) | 🟡 Medium | cpp | 2026-02-18 |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/) | 🟡 Medium | cpp | 2026-02-17 |

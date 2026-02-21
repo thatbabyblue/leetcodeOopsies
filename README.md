@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 87
+- **Total Problems Solved:** 88
 - **Easy:** 43 🟢
-- **Medium:** 43 🟡
+- **Medium:** 44 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -73,6 +73,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/1925008846/) | 🟡 Medium | cpp | 2026-02-20 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1924727800/) | 🟡 Medium | cpp | 2026-02-19 |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1926704376/) | 🟡 Medium | cpp | 2026-02-21 |
 | [343. Integer Break](https://leetcode.com/problems/integer-break/submissions/1925849303/) | 🟡 Medium | cpp | 2026-02-21 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | 🟡 Medium | cpp | 2026-02-17 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/1925052721/) | 🟡 Medium | cpp | 2026-02-20 |

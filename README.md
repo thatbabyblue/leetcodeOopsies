@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 90
+- **Total Problems Solved:** 91
 - **Easy:** 45 🟢
-- **Medium:** 44 🟡
+- **Medium:** 45 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -90,6 +90,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [494. Target Sum](https://leetcode.com/problems/target-sum/submissions/1925890559/) | 🟡 Medium | cpp | 2026-02-21 |
 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/1923004411/) | 🟡 Medium | cpp | 2026-02-18 |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/) | 🟡 Medium | cpp | 2026-02-17 |
+| [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/submissions/1926777082/) | 🟡 Medium | cpp | 2026-02-21 |
 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/1924897666/) | 🟡 Medium | cpp | 2026-02-20 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/1925818863/) | 🟡 Medium | cpp | 2026-02-20 |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/1925828589/) | 🟡 Medium | cpp | 2026-02-21 |

@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 82
-- **Easy:** 39 🟢
+- **Total Problems Solved:** 83
+- **Easy:** 40 🟢
 - **Medium:** 42 🟡
 - **Hard:** 1 🔴
 
@@ -52,6 +52,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 🟢 Easy | cpp | 2026-02-20 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
+| [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 🟢 Easy | cpp | 2026-02-21 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |
 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/submissions/1925883176/) | 🟡 Medium | cpp | 2026-02-21 |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1923876394/) | 🟡 Medium | cpp | 2026-02-19 |

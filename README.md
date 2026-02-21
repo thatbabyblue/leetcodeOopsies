@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 89
-- **Easy:** 44 🟢
+- **Total Problems Solved:** 90
+- **Easy:** 45 🟢
 - **Medium:** 44 🟡
 - **Hard:** 1 🔴
 
@@ -36,6 +36,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1925948316/) | 🟢 Easy | cpp | 2026-02-21 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1926716708/) | 🟢 Easy | cpp | 2026-02-21 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922988463/) | 🟢 Easy | cpp | 2026-02-18 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922996414/) | 🟢 Easy | cpp | 2026-02-18 |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/1925794641/) | 🟢 Easy | cpp | 2026-02-20 |

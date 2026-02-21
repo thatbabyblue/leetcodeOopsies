@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 76
+- **Total Problems Solved:** 77
 - **Easy:** 38 🟢
-- **Medium:** 37 🟡
+- **Medium:** 38 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -87,6 +87,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/1925179893/) | 🟡 Medium | cpp | 2026-02-20 |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/submissions/1925691779/) | 🟡 Medium | cpp | 2026-02-20 |
 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/1925165550/) | 🟡 Medium | cpp | 2026-02-20 |
+| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/1925853663/) | 🟡 Medium | cpp | 2026-02-21 |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1924008727/) | 🟡 Medium | cpp | 2026-02-19 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/1921628846/) | 🔴 Hard | cpp | 2026-02-17 |
 

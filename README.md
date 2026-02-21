@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 88
-- **Easy:** 43 🟢
+- **Total Problems Solved:** 89
+- **Easy:** 44 🟢
 - **Medium:** 44 🟡
 - **Hard:** 1 🔴
 
@@ -53,6 +53,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-19 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1926689910/) | 🟢 Easy | cpp | 2026-02-21 |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 🟢 Easy | cpp | 2026-02-20 |
+| [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/submissions/1926712536/) | 🟢 Easy | cpp | 2026-02-21 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 🟢 Easy | cpp | 2026-02-21 |

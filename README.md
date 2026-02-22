@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 103
+- **Total Problems Solved:** 104
 - **Easy:** 49 🟢
-- **Medium:** 53 🟡
+- **Medium:** 54 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/1923763568/) | 🟡 Medium | cpp | 2026-02-18 |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/1922635585/) | 🟡 Medium | cpp | 2026-02-17 |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/1922636744/) | 🟡 Medium | cpp | 2026-02-17 |
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1926973983/) | 🟡 Medium | cpp | 2026-02-22 |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/1925141701/) | 🟡 Medium | cpp | 2026-02-20 |
 | [139. Word Break](https://leetcode.com/problems/word-break/submissions/1926813249/) | 🟡 Medium | cpp | 2026-02-22 |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/submissions/1926828943/) | 🟡 Medium | cpp | 2026-02-22 |

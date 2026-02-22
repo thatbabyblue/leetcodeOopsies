@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 109
-- **Easy:** 49 🟢
+- **Total Problems Solved:** 110
+- **Easy:** 50 🟢
 - **Medium:** 57 🟡
 - **Hard:** 3 🔴
 
@@ -54,6 +54,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923978077/) | 🟢 Easy | cpp | 2026-02-19 |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923980393/) | 🟢 Easy | cpp | 2026-02-19 |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1922530963/) | 🟢 Easy | cpp | 2026-02-17 |
+| [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/1927767099/) | 🟢 Easy | cpp | 2026-02-22 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1925807661/) | 🟢 Easy | cpp | 2026-02-20 |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-19 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1926689910/) | 🟢 Easy | cpp | 2026-02-21 |

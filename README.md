@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 102
-- **Easy:** 48 🟢
+- **Total Problems Solved:** 103
+- **Easy:** 49 🟢
 - **Medium:** 53 🟡
 - **Hard:** 1 🔴
 
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1922866198/) | 🟢 Easy | cpp | 2026-02-18 |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/submissions/1923757479/) | 🟢 Easy | cpp | 2026-02-18 |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/submissions/1925944415/) | 🟢 Easy | cpp | 2026-02-21 |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1926964217/) | 🟢 Easy | cpp | 2026-02-22 |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1925926950/) | 🟢 Easy | cpp | 2026-02-21 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1926832788/) | 🟢 Easy | cpp | 2026-02-22 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | cpp | 2026-02-17 |

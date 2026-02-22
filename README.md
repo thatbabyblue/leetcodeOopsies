@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 99
+- **Total Problems Solved:** 100
 - **Easy:** 48 🟢
-- **Medium:** 50 🟡
+- **Medium:** 51 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -76,6 +76,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1921438690/) | 🟡 Medium | cpp | 2026-02-16 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1925027274/) | 🟡 Medium | cpp | 2026-02-20 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1926681848/) | 🟡 Medium | cpp | 2026-02-21 |
+| [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1926857705/) | 🟡 Medium | cpp | 2026-02-22 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/) | 🟡 Medium | cpp | 2026-02-17 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/1925008846/) | 🟡 Medium | cpp | 2026-02-20 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |

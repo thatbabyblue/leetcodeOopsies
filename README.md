@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 112
+- **Total Problems Solved:** 113
 - **Easy:** 50 🟢
-- **Medium:** 59 🟡
+- **Medium:** 60 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | 🟡 Medium | cpp | 2026-02-17 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/1923763568/) | 🟡 Medium | cpp | 2026-02-18 |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1927784703/) | 🟡 Medium | cpp | 2026-02-22 |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1927796738/) | 🟡 Medium | cpp | 2026-02-22 |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/1922635585/) | 🟡 Medium | cpp | 2026-02-17 |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/1922636744/) | 🟡 Medium | cpp | 2026-02-17 |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1926973983/) | 🟡 Medium | cpp | 2026-02-22 |

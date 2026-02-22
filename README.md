@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 110
+- **Total Problems Solved:** 111
 - **Easy:** 50 🟢
-- **Medium:** 57 🟡
+- **Medium:** 58 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -114,6 +114,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/1924851880/) | 🟡 Medium | cpp | 2026-02-19 |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1924742629/) | 🟡 Medium | cpp | 2026-02-19 |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/submissions/1927744918/) | 🟡 Medium | cpp | 2026-02-22 |
+| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/1927776544/) | 🟡 Medium | cpp | 2026-02-22 |
 | [77. Combinations](https://leetcode.com/problems/combinations/submissions/1924901724/) | 🟡 Medium | cpp | 2026-02-20 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/1925179893/) | 🟡 Medium | cpp | 2026-02-20 |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/submissions/1925691779/) | 🟡 Medium | cpp | 2026-02-20 |

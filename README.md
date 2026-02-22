@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 113
+- **Total Problems Solved:** 114
 - **Easy:** 50 🟢
-- **Medium:** 60 🟡
+- **Medium:** 61 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 🟢 Easy | cpp | 2026-02-21 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |
+| [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/submissions/1927797673/) | 🟡 Medium | cpp | 2026-02-22 |
 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/submissions/1925883176/) | 🟡 Medium | cpp | 2026-02-21 |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1923876394/) | 🟡 Medium | cpp | 2026-02-19 |
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/1923868842/) | 🟡 Medium | cpp | 2026-02-19 |

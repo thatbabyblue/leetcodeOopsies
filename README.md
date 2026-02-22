@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 108
+- **Total Problems Solved:** 109
 - **Easy:** 49 🟢
-- **Medium:** 56 🟡
+- **Medium:** 57 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -85,6 +85,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1924727800/) | 🟡 Medium | cpp | 2026-02-19 |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/submissions/1926808693/) | 🟡 Medium | cpp | 2026-02-22 |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/1927753440/) | 🟡 Medium | cpp | 2026-02-22 |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/1927737305/) | 🟡 Medium | cpp | 2026-02-22 |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/submissions/1926804841/) | 🟡 Medium | cpp | 2026-02-22 |
 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/1926934533/) | 🟡 Medium | cpp | 2026-02-22 |

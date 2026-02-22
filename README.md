@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 115
-- **Easy:** 50 🟢
+- **Total Problems Solved:** 116
+- **Easy:** 51 🟢
 - **Medium:** 62 🟡
 - **Hard:** 3 🔴
 
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1925948316/) | 🟢 Easy | cpp | 2026-02-21 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1926716708/) | 🟢 Easy | cpp | 2026-02-21 |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/1927817056/) | 🟢 Easy | cpp | 2026-02-22 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922988463/) | 🟢 Easy | cpp | 2026-02-18 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922996414/) | 🟢 Easy | cpp | 2026-02-18 |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/1925794641/) | 🟢 Easy | cpp | 2026-02-20 |

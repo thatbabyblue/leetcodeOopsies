@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 123
+- **Total Problems Solved:** 124
 - **Easy:** 53 🟢
-- **Medium:** 66 🟡
+- **Medium:** 67 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -119,6 +119,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/1927862086/) | 🟡 Medium | cpp | 2026-02-22 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/1925818863/) | 🟡 Medium | cpp | 2026-02-20 |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/1925828589/) | 🟡 Medium | cpp | 2026-02-21 |
+| [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/submissions/1929048911/) | 🟡 Medium | cpp | 2026-02-23 |
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/1923891775/) | 🟡 Medium | cpp | 2026-02-19 |
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/1924851880/) | 🟡 Medium | cpp | 2026-02-19 |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1924742629/) | 🟡 Medium | cpp | 2026-02-19 |

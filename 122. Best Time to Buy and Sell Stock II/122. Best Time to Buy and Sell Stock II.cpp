@@ -1,22 +1,21 @@
 /*
  * Problem: 122. Best Time to Buy and Sell Stock II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1926973983/
+ * Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1929256111/
  * Language: cpp
- * Date: 2026-02-22
+ * Date: 2026-02-24
  */
 
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int len = prices.size();
-        vector<vector<int>> dp(len, vector<int>(2));
+        vector<vector<int>> dp(prices.size(), vector<int>(2, 0));
         dp[0][0] = -prices[0];
         dp[0][1] = 0;
-        for (int i = 1; i < len; i++) {
+        for (int i = 1; i < prices.size(); i++) {
             dp[i][0] = max(dp[i - 1][0], dp[i - 1][1] - prices[i]);
             dp[i][1] = max(dp[i - 1][1], dp[i - 1][0] + prices[i]);
         }
-        return dp[len - 1][1];
+        return dp[prices.size() - 1][1];
     }
 };

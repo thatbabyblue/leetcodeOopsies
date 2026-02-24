@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 124
+- **Total Problems Solved:** 125
 - **Easy:** 53 🟢
-- **Medium:** 67 🟡
+- **Medium:** 68 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -113,6 +113,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [494. Target Sum](https://leetcode.com/problems/target-sum/submissions/1925890559/) | 🟡 Medium | cpp | 2026-02-21 |
 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/1923004411/) | 🟡 Medium | cpp | 2026-02-18 |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/) | 🟡 Medium | cpp | 2026-02-17 |
+| [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1929162787/) | 🟡 Medium | cpp | 2026-02-24 |
 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/submissions/1926777082/) | 🟡 Medium | cpp | 2026-02-21 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1927800775/) | 🟡 Medium | cpp | 2026-02-22 |
 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/1924897666/) | 🟡 Medium | cpp | 2026-02-20 |

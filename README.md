@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 132
+- **Total Problems Solved:** 133
 - **Easy:** 53 🟢
-- **Medium:** 75 🟡
+- **Medium:** 76 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -109,6 +109,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/1925120374/) | 🟡 Medium | cpp | 2026-02-20 |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1925868893/) | 🟡 Medium | cpp | 2026-02-21 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1929331681/) | 🟡 Medium | cpp | 2026-02-24 |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1924818277/) | 🟡 Medium | cpp | 2026-02-19 |
 | [46. Permutations](https://leetcode.com/problems/permutations/submissions/1925724271/) | 🟡 Medium | cpp | 2026-02-20 |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/submissions/1925740945/) | 🟡 Medium | cpp | 2026-02-20 |

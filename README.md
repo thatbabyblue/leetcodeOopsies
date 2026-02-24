@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 134
+- **Total Problems Solved:** 135
 - **Easy:** 54 🟢
-- **Medium:** 76 🟡
+- **Medium:** 77 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -83,6 +83,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1929261995/) | 🟡 Medium | cpp | 2026-02-24 |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1927847304/) | 🟡 Medium | cpp | 2026-02-22 |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/1925141701/) | 🟡 Medium | cpp | 2026-02-20 |
+| [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1929371824/) | 🟡 Medium | cpp | 2026-02-24 |
 | [139. Word Break](https://leetcode.com/problems/word-break/submissions/1926813249/) | 🟡 Medium | cpp | 2026-02-22 |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/submissions/1926828943/) | 🟡 Medium | cpp | 2026-02-22 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1921567968/) | 🟡 Medium | cpp | 2026-02-16 |

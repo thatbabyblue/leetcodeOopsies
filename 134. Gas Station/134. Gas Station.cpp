@@ -1,23 +1,26 @@
 /*
  * Problem: 134. Gas Station
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/gas-station/submissions/1929371824/
+ * Link: https://leetcode.com/problems/gas-station/submissions/1931067311/
  * Language: cpp
- * Date: 2026-02-24
+ * Date: 2026-02-25
  */
 
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        for (int i = 0; i < cost.size(); i++) {
-            int rest = gas[i] - cost[i];
-            int index = (i + 1) % cost.size(); 
-            while (rest > 0 && index != i) {
-                rest += gas[index] - cost[index];
-                index = (index + 1) % cost.size();
+        int curSum = 0;
+        int start = 0;
+        int totalSum = 0;
+        for (int i = 0; i < gas.size(); i++) {
+            curSum += gas[i] - cost[i];
+            totalSum += gas[i] - cost[i];
+            if (curSum < 0) {
+                curSum = 0;
+                start = i + 1;
             }
-            if (rest >= 0 && index == i) return i;
         }
-        return -1;
+        if (totalSum < 0) return -1;
+        return start;
     }
 };

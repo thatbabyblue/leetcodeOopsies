@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 144
+- **Total Problems Solved:** 145
 - **Easy:** 55 🟢
 - **Medium:** 84 🟡
-- **Hard:** 5 🔴
+- **Hard:** 6 🔴
 
 ## 📝 Problems
 
@@ -157,6 +157,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [135. Candy](https://leetcode.com/problems/candy/submissions/1931234985/) | 🔴 Hard | cpp | 2026-02-25 |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/1927713301/) | 🔴 Hard | cpp | 2026-02-22 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/1921628846/) | 🔴 Hard | cpp | 2026-02-17 |
+| [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/submissions/1931584439/) | 🔴 Hard | cpp | 2026-02-26 |
 
 ---
 

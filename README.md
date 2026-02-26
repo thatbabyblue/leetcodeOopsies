@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 143
+- **Total Problems Solved:** 144
 - **Easy:** 55 🟢
-- **Medium:** 83 🟡
+- **Medium:** 84 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -143,6 +143,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/submissions/1927744918/) | 🟡 Medium | cpp | 2026-02-22 |
 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/1927776544/) | 🟡 Medium | cpp | 2026-02-22 |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/submissions/1928790030/) | 🟡 Medium | cpp | 2026-02-23 |
+| [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/submissions/1931551514/) | 🟡 Medium | cpp | 2026-02-26 |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/submissions/1931500390/) | 🟡 Medium | cpp | 2026-02-26 |
 | [77. Combinations](https://leetcode.com/problems/combinations/submissions/1924901724/) | 🟡 Medium | cpp | 2026-02-20 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/1925179893/) | 🟡 Medium | cpp | 2026-02-20 |

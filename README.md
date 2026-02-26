@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 142
+- **Total Problems Solved:** 143
 - **Easy:** 55 🟢
-- **Medium:** 82 🟡
+- **Medium:** 83 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -132,6 +132,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1929247716/) | 🟡 Medium | cpp | 2026-02-24 |
 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/1924897666/) | 🟡 Medium | cpp | 2026-02-20 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/1929286588/) | 🟡 Medium | cpp | 2026-02-24 |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/1931530777/) | 🟡 Medium | cpp | 2026-02-26 |
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/1927862086/) | 🟡 Medium | cpp | 2026-02-22 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/1925818863/) | 🟡 Medium | cpp | 2026-02-20 |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/1925828589/) | 🟡 Medium | cpp | 2026-02-21 |

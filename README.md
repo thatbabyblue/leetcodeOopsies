@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 139
+- **Total Problems Solved:** 140
 - **Easy:** 55 🟢
-- **Medium:** 79 🟡
+- **Medium:** 80 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -116,6 +116,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1929331681/) | 🟡 Medium | cpp | 2026-02-24 |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1924818277/) | 🟡 Medium | cpp | 2026-02-19 |
+| [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/1931473908/) | 🟡 Medium | cpp | 2026-02-26 |
 | [46. Permutations](https://leetcode.com/problems/permutations/submissions/1925724271/) | 🟡 Medium | cpp | 2026-02-20 |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/submissions/1925740945/) | 🟡 Medium | cpp | 2026-02-20 |
 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/submissions/1925903322/) | 🟡 Medium | cpp | 2026-02-21 |

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 140
+- **Total Problems Solved:** 141
 - **Easy:** 55 🟢
-- **Medium:** 80 🟡
+- **Medium:** 81 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -114,6 +114,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/submissions/1931299210/) | 🟡 Medium | cpp | 2026-02-26 |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1925868893/) | 🟡 Medium | cpp | 2026-02-21 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
+| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/submissions/1931487285/) | 🟡 Medium | cpp | 2026-02-26 |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1929331681/) | 🟡 Medium | cpp | 2026-02-24 |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1924818277/) | 🟡 Medium | cpp | 2026-02-19 |
 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/1931473908/) | 🟡 Medium | cpp | 2026-02-26 |

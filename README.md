@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 145
+- **Total Problems Solved:** 146
 - **Easy:** 55 🟢
-- **Medium:** 84 🟡
+- **Medium:** 85 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -144,6 +144,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/1927776544/) | 🟡 Medium | cpp | 2026-02-22 |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/submissions/1928790030/) | 🟡 Medium | cpp | 2026-02-23 |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/submissions/1931551514/) | 🟡 Medium | cpp | 2026-02-26 |
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/1932295845/) | 🟡 Medium | cpp | 2026-02-27 |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/submissions/1931500390/) | 🟡 Medium | cpp | 2026-02-26 |
 | [77. Combinations](https://leetcode.com/problems/combinations/submissions/1924901724/) | 🟡 Medium | cpp | 2026-02-20 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/1925179893/) | 🟡 Medium | cpp | 2026-02-20 |

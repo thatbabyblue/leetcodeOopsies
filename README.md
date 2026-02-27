@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 147
+- **Total Problems Solved:** 148
 - **Easy:** 56 🟢
-- **Medium:** 85 🟡
+- **Medium:** 86 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -124,6 +124,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/submissions/1925903322/) | 🟡 Medium | cpp | 2026-02-21 |
 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/submissions/1925717531/) | 🟡 Medium | cpp | 2026-02-20 |
 | [494. Target Sum](https://leetcode.com/problems/target-sum/submissions/1925890559/) | 🟡 Medium | cpp | 2026-02-21 |
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/1932390590/) | 🟡 Medium | cpp | 2026-02-27 |
 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/1923004411/) | 🟡 Medium | cpp | 2026-02-18 |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/) | 🟡 Medium | cpp | 2026-02-17 |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1929162787/) | 🟡 Medium | cpp | 2026-02-24 |

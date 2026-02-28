@@ -1,7 +1,7 @@
 /*
  * Problem: 827. Making A Large Island
  * Difficulty: Hard
- * Link: https://leetcode.com/problems/making-a-large-island/submissions/1934103674/
+ * Link: https://leetcode.com/problems/making-a-large-island/submissions/1934106817/
  * Language: cpp
  * Date: 2026-02-28
  */
@@ -10,16 +10,28 @@ class Solution {
 public:
     int dir[4][2] = {0, 1, 1, 0, -1, 0, 0, -1};
     int count;
-    void dfs(vector<vector<int>>& grid, vector<vector<int>>& visited, int x, int y, int mark) {
+    void bfs(vector<vector<int>>& grid, vector<vector<int>>& visited, int x, int y, int mark) {
         if (visited[x][y] || grid[x][y] == 0) return;
         visited[x][y] = true;
         count++;
         grid[x][y] = mark;
-        for (int i = 0; i < 4; i++) {
-            int nextx = x + dir[i][0];
-            int nexty = y + dir[i][1];
-            if (nextx < 0 || nextx >= grid.size() || nexty < 0 || nexty >= grid[0].size()) continue;
-            dfs(grid, visited, nextx, nexty, mark);
+        queue<pair<int, int>> que;
+        que.push({x, y});
+        while (!que.empty()) {
+            int curx = que.front().first;
+            int cury = que.front().second;
+            que.pop();
+            for (int i = 0; i < 4; i++) {
+                int nextx = curx + dir[i][0];
+                int nexty = cury + dir[i][1];
+                if (nextx < 0 || nextx >= grid.size() || nexty < 0 || nexty >= grid[0].size()) continue;
+                if (!visited[nextx][nexty] && grid[nextx][nexty] == 1) {
+                    count++;
+                    visited[nextx][nexty] = true;
+                    grid[nextx][nexty] = mark;
+                    que.push({nextx, nexty});
+                }
+            }
         }
     }
     int largestIsland(vector<vector<int>>& grid) {
@@ -34,7 +46,7 @@ public:
                 if (grid[i][j] == 0) allGrid = false;
                 if (!visited[i][j] && grid[i][j] == 1) {
                     count = 0;
-                    dfs(grid, visited, i, j, mark);
+                    bfs(grid, visited, i, j, mark);
                     gridNum[mark] = count;
                     mark++;
                 }

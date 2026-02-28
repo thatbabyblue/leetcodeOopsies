@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 163
+- **Total Problems Solved:** 164
 - **Easy:** 56 🟢
 - **Medium:** 96 🟡
-- **Hard:** 11 🔴
+- **Hard:** 12 🔴
 
 ## 📝 Problems
 
@@ -173,6 +173,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1932416373/) | 🔴 Hard | cpp | 2026-02-27 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1932429850/) | 🔴 Hard | cpp | 2026-02-27 |
 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/submissions/1934103674/) | 🔴 Hard | cpp | 2026-02-28 |
+| [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/submissions/1934106817/) | 🔴 Hard | cpp | 2026-02-28 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1932580165/) | 🔴 Hard | cpp | 2026-02-27 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1932599095/) | 🔴 Hard | cpp | 2026-02-27 |
 | [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/submissions/1931584439/) | 🔴 Hard | cpp | 2026-02-26 |

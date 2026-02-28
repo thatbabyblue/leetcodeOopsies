@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 154
+- **Total Problems Solved:** 155
 - **Easy:** 56 🟢
-- **Medium:** 88 🟡
+- **Medium:** 89 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -143,6 +143,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/submissions/1929048911/) | 🟡 Medium | cpp | 2026-02-23 |
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/1923891775/) | 🟡 Medium | cpp | 2026-02-19 |
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/1924851880/) | 🟡 Medium | cpp | 2026-02-19 |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/1933299700/) | 🟡 Medium | cpp | 2026-02-28 |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1924742629/) | 🟡 Medium | cpp | 2026-02-19 |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/submissions/1927744918/) | 🟡 Medium | cpp | 2026-02-22 |
 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/1927776544/) | 🟡 Medium | cpp | 2026-02-22 |

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 152
+- **Total Problems Solved:** 153
 - **Easy:** 56 🟢
-- **Medium:** 86 🟡
+- **Medium:** 87 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -95,6 +95,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1926681848/) | 🟡 Medium | cpp | 2026-02-21 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1926857705/) | 🟡 Medium | cpp | 2026-02-22 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/) | 🟡 Medium | cpp | 2026-02-17 |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1933279037/) | 🟡 Medium | cpp | 2026-02-28 |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/1926891452/) | 🟡 Medium | cpp | 2026-02-22 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/1925008846/) | 🟡 Medium | cpp | 2026-02-20 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |

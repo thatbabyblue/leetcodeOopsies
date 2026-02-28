@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 165
-- **Easy:** 57 🟢
+- **Total Problems Solved:** 166
+- **Easy:** 58 🟢
 - **Medium:** 96 🟡
 - **Hard:** 12 🔴
 
@@ -50,6 +50,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/1925794641/) | 🟢 Easy | cpp | 2026-02-20 |
 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | cpp | 2026-02-16 |
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/submissions/1934130535/) | 🟢 Easy | cpp | 2026-02-28 |
+| [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | 🟢 Easy | cpp | 2026-02-28 |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/1932302533/) | 🟢 Easy | cpp | 2026-02-27 |
 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/1924047861/) | 🟢 Easy | cpp | 2026-02-19 |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1925804360/) | 🟢 Easy | cpp | 2026-02-20 |

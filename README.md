@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 159
+- **Total Problems Solved:** 160
 - **Easy:** 56 🟢
-- **Medium:** 93 🟡
+- **Medium:** 94 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -87,6 +87,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1929261995/) | 🟡 Medium | cpp | 2026-02-24 |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1927847304/) | 🟡 Medium | cpp | 2026-02-22 |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/1933984397/) | 🟡 Medium | cpp | 2026-02-28 |
+| [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/1933997910/) | 🟡 Medium | cpp | 2026-02-28 |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/1925141701/) | 🟡 Medium | cpp | 2026-02-20 |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1929371824/) | 🟡 Medium | cpp | 2026-02-24 |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1931067311/) | 🟡 Medium | cpp | 2026-02-25 |

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 170
+- **Total Problems Solved:** 171
 - **Easy:** 59 🟢
-- **Medium:** 98 🟡
+- **Medium:** 99 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -152,6 +152,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/submissions/1929048911/) | 🟡 Medium | cpp | 2026-02-23 |
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/1923891775/) | 🟡 Medium | cpp | 2026-02-19 |
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/1924851880/) | 🟡 Medium | cpp | 2026-02-19 |
+| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/submissions/1935098175/) | 🟡 Medium | cpp | 2026-03-01 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/1933299700/) | 🟡 Medium | cpp | 2026-02-28 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/1933393647/) | 🟡 Medium | cpp | 2026-02-28 |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1924742629/) | 🟡 Medium | cpp | 2026-02-19 |

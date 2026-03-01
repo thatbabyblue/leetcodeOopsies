@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 169
-- **Easy:** 58 🟢
+- **Total Problems Solved:** 170
+- **Easy:** 59 🟢
 - **Medium:** 98 🟡
 - **Hard:** 13 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921657178/) | 🟢 Easy | cpp | 2026-02-17 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921668454/) | 🟢 Easy | cpp | 2026-02-17 |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1926838041/) | 🟢 Easy | cpp | 2026-02-22 |
+| [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1935051179/) | 🟢 Easy | cpp | 2026-03-01 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1921559232/) | 🟢 Easy | cpp | 2026-02-16 |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/1927838884/) | 🟢 Easy | cpp | 2026-02-22 |
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/1922889220/) | 🟢 Easy | cpp | 2026-02-18 |

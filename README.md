@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 173
+- **Total Problems Solved:** 174
 - **Easy:** 59 🟢
-- **Medium:** 100 🟡
+- **Medium:** 101 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -172,6 +172,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/1925165550/) | 🟡 Medium | cpp | 2026-02-20 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/1925853663/) | 🟡 Medium | cpp | 2026-02-21 |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1924008727/) | 🟡 Medium | cpp | 2026-02-19 |
+| [Unknown Problem](https://leetcode.com/problems/course-schedule-ii/submissions/1936485526/) | 🟡 Medium | cpp | 2026-03-03 |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/submissions/1927828488/) | 🔴 Hard | cpp | 2026-02-22 |
 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/1927700353/) | 🔴 Hard | cpp | 2026-02-22 |
 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/submissions/1934167527/) | 🔴 Hard | cpp | 2026-03-01 |

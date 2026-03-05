@@ -1,40 +1,56 @@
 /*
  * Problem: 743. Network Delay Time
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/network-delay-time/submissions/1937433557/
+ * Link: https://leetcode.com/problems/network-delay-time/submissions/1938446110/
  * Language: cpp
- * Date: 2026-03-04
+ * Date: 2026-03-05
  */
 
 class Solution {
 public:
+    class mycomparison {
+    public:
+        bool operator()(const pair<int, int> lhs, const pair<int, int> rhs) {
+            return lhs.second > rhs.second;
+        }
+        
+    };
+
+    struct Edge {
+        int to;
+        int val;
+
+        Edge(int t, int w): to(t), val(w) {}
+    };
+
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<int>> grid(n + 1, vector<int>(n + 1, INT_MAX));
+        vector<list<Edge>> grid(n + 1);
         
         for (auto& t : times) {
             int u = t[0], v = t[1], val = t[2];
-            grid[u][v] = val;
+            grid[u].push_back(Edge(v, val));
         }
 
         vector<int> minDist(n + 1, INT_MAX);
         vector<int> visited(n + 1, false);
 
-        minDist[k] = 0;
-        for (int i = 1; i <= n; i++) {
-            int cur = -1;
-            int minVal = INT_MAX;
-            for (int j = 1; j <= n; j++) {
-                if (!visited[j] && minDist[j] < minVal) {
-                    minVal = minDist[j];
-                    cur = j;
-                }
-            }
-            if (cur == -1) break;
-            visited[cur] = true;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, mycomparison> pq;
+        
+        pq.push(pair<int, int>(k, 0));
 
-            for (int j = 1; j <= n; j++) {
-                if (!visited[j] && grid[cur][j] < INT_MAX && minDist[cur] + grid[cur][j] < minDist[j]) {
-                    minDist[j] = minDist[cur] + grid[cur][j];
+        minDist[k] = 0;
+
+        while (!pq.empty()) {
+            pair<int, int> cur = pq.top();
+            pq.pop();
+
+            if (visited[cur.first]) continue;
+            visited[cur.first] = true;
+
+            for (Edge e : grid[cur.first]) {
+                if (!visited[e.to] && minDist[cur.first] + e.val < minDist[e.to]) {
+                    minDist[e.to] = minDist[cur.first] + e.val;
+                    pq.push(pair<int, int>(e.to, minDist[e.to]));
                 }
             }
         }

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 175
+- **Total Problems Solved:** 176
 - **Easy:** 59 🟢
-- **Medium:** 102 🟡
+- **Medium:** 103 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -163,6 +163,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/submissions/1931551514/) | 🟡 Medium | cpp | 2026-02-26 |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/1932295845/) | 🟡 Medium | cpp | 2026-02-27 |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/1937433557/) | 🟡 Medium | cpp | 2026-03-04 |
+| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/1938446110/) | 🟡 Medium | cpp | 2026-03-05 |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/submissions/1931500390/) | 🟡 Medium | cpp | 2026-02-26 |
 | [77. Combinations](https://leetcode.com/problems/combinations/submissions/1924901724/) | 🟡 Medium | cpp | 2026-02-20 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/1925179893/) | 🟡 Medium | cpp | 2026-02-20 |

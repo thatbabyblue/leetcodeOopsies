@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 178
+- **Total Problems Solved:** 179
 - **Easy:** 59 🟢
-- **Medium:** 105 🟡
+- **Medium:** 106 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -169,6 +169,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/submissions/1931500390/) | 🟡 Medium | cpp | 2026-02-26 |
 | [77. Combinations](https://leetcode.com/problems/combinations/submissions/1924901724/) | 🟡 Medium | cpp | 2026-02-20 |
 | [78. Subsets](https://leetcode.com/problems/subsets/submissions/1925179893/) | 🟡 Medium | cpp | 2026-02-20 |
+| [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/1941223071/) | 🟡 Medium | cpp | 2026-03-07 |
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/1927873093/) | 🟡 Medium | cpp | 2026-02-22 |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/submissions/1934493043/) | 🟡 Medium | cpp | 2026-03-01 |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/submissions/1934499810/) | 🟡 Medium | cpp | 2026-03-01 |

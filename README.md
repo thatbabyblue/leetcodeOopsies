@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 180
-- **Easy:** 59 🟢
+- **Total Problems Solved:** 181
+- **Easy:** 60 🟢
 - **Medium:** 107 🟡
 - **Hard:** 14 🔴
 
@@ -65,6 +65,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/1927767099/) | 🟢 Easy | cpp | 2026-02-22 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1925807661/) | 🟢 Easy | cpp | 2026-02-20 |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-19 |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1941708630/) | 🟢 Easy | cpp | 2026-03-08 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1926689910/) | 🟢 Easy | cpp | 2026-02-21 |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 🟢 Easy | cpp | 2026-02-20 |
 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/submissions/1931239224/) | 🟢 Easy | cpp | 2026-02-25 |

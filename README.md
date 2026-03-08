@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 189
-- **Easy:** 67 🟢
+- **Total Problems Solved:** 190
+- **Easy:** 68 🟢
 - **Medium:** 108 🟡
 - **Hard:** 14 🔴
 
@@ -80,6 +80,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 🟢 Easy | cpp | 2026-02-21 |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1942294235/) | 🟢 Easy | cpp | 2026-03-08 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/submissions/1933415967/) | 🟡 Medium | cpp | 2026-02-28 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/submissions/1933432893/) | 🟡 Medium | cpp | 2026-02-28 |

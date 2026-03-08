@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 179
+- **Total Problems Solved:** 180
 - **Easy:** 59 🟢
-- **Medium:** 106 🟡
+- **Medium:** 107 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -92,6 +92,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/1933984397/) | 🟡 Medium | cpp | 2026-02-28 |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/submissions/1933997910/) | 🟡 Medium | cpp | 2026-02-28 |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/1925141701/) | 🟡 Medium | cpp | 2026-02-20 |
+| [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/1941261869/) | 🟡 Medium | cpp | 2026-03-08 |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1929371824/) | 🟡 Medium | cpp | 2026-02-24 |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1931067311/) | 🟡 Medium | cpp | 2026-02-25 |
 | [139. Word Break](https://leetcode.com/problems/word-break/submissions/1926813249/) | 🟡 Medium | cpp | 2026-02-22 |

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 182
+- **Total Problems Solved:** 183
 - **Easy:** 61 🟢
-- **Medium:** 107 🟡
+- **Medium:** 108 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -118,6 +118,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [322. Coin Change](https://leetcode.com/problems/coin-change/submissions/1926804841/) | 🟡 Medium | cpp | 2026-02-22 |
 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/1926934533/) | 🟡 Medium | cpp | 2026-02-22 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1926704376/) | 🟡 Medium | cpp | 2026-02-21 |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1942210061/) | 🟡 Medium | cpp | 2026-03-08 |
 | [343. Integer Break](https://leetcode.com/problems/integer-break/submissions/1925849303/) | 🟡 Medium | cpp | 2026-02-21 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | 🟡 Medium | cpp | 2026-02-17 |
 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/submissions/1929193704/) | 🟡 Medium | cpp | 2026-02-24 |

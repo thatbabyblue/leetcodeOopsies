@@ -1,9 +1,9 @@
 /*
  * Problem: 35. Search Insert Position
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/search-insert-position/submissions/1926716708/
+ * Link: https://leetcode.com/problems/search-insert-position/submissions/1941712510/
  * Language: cpp
- * Date: 2026-02-21
+ * Date: 2026-03-08
  */
 
 class Solution {

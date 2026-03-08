@@ -1,7 +1,7 @@
 /*
  * Problem: 844. Backspace String Compare
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/backspace-string-compare/submissions/1942290576/
+ * Link: https://leetcode.com/problems/backspace-string-compare/
  * Language: cpp
  * Date: 2026-03-08
  */

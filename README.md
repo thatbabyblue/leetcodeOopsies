@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 186
-- **Easy:** 64 🟢
+- **Total Problems Solved:** 187
+- **Easy:** 65 🟢
 - **Medium:** 108 🟡
 - **Hard:** 14 🔴
 
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1921546930/) | 🟢 Easy | cpp | 2026-02-16 |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | 🟢 Easy | cpp | 2026-02-22 |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/1922970645/) | 🟢 Easy | cpp | 2026-02-18 |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1942282476/) | 🟢 Easy | cpp | 2026-03-08 |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1942275995/) | 🟢 Easy | cpp | 2026-03-08 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1925948316/) | 🟢 Easy | cpp | 2026-02-21 |

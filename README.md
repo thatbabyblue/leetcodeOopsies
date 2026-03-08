@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 188
-- **Easy:** 66 🟢
+- **Total Problems Solved:** 189
+- **Easy:** 67 🟢
 - **Medium:** 108 🟡
 - **Hard:** 14 🔴
 
@@ -74,6 +74,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1941708630/) | 🟢 Easy | cpp | 2026-03-08 |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/1926689910/) | 🟢 Easy | cpp | 2026-02-21 |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 🟢 Easy | cpp | 2026-02-20 |
+| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/1942290576/) | 🟢 Easy | cpp | 2026-03-08 |
 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/submissions/1931239224/) | 🟢 Easy | cpp | 2026-02-25 |
 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/submissions/1926712536/) | 🟢 Easy | cpp | 2026-02-21 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 190
+- **Total Problems Solved:** 191
 - **Easy:** 68 🟢
-- **Medium:** 108 🟡
+- **Medium:** 109 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -115,6 +115,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/) | 🟡 Medium | cpp | 2026-02-17 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1933279037/) | 🟡 Medium | cpp | 2026-02-28 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1933289248/) | 🟡 Medium | cpp | 2026-02-28 |
+| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1943558561/) | 🟡 Medium | cpp | 2026-03-10 |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/1926891452/) | 🟡 Medium | cpp | 2026-02-22 |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/1925008846/) | 🟡 Medium | cpp | 2026-02-20 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |

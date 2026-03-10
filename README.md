@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 191
+- **Total Problems Solved:** 192
 - **Easy:** 68 🟢
-- **Medium:** 109 🟡
+- **Medium:** 110 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -186,6 +186,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/submissions/1934493043/) | 🟡 Medium | cpp | 2026-03-01 |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/submissions/1934499810/) | 🟡 Medium | cpp | 2026-03-01 |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/submissions/1925691779/) | 🟡 Medium | cpp | 2026-02-20 |
+| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/submissions/1943595773/) | 🟡 Medium | cpp | 2026-03-10 |
 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/1925165550/) | 🟡 Medium | cpp | 2026-02-20 |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/1925853663/) | 🟡 Medium | cpp | 2026-02-21 |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1924008727/) | 🟡 Medium | cpp | 2026-02-19 |

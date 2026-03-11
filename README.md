@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 193
+- **Total Problems Solved:** 194
 - **Easy:** 68 🟢
-- **Medium:** 110 🟡
+- **Medium:** 111 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -160,6 +160,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [55. Jump Game](https://leetcode.com/problems/jump-game/submissions/1929286588/) | 🟡 Medium | cpp | 2026-02-24 |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/1931530777/) | 🟡 Medium | cpp | 2026-02-26 |
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/1927862086/) | 🟡 Medium | cpp | 2026-02-22 |
+| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/submissions/1944623314/) | 🟡 Medium | cpp | 2026-03-11 |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/1925818863/) | 🟡 Medium | cpp | 2026-02-20 |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/1925828589/) | 🟡 Medium | cpp | 2026-02-21 |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/submissions/1929048911/) | 🟡 Medium | cpp | 2026-02-23 |

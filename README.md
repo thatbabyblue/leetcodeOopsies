@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 192
+- **Total Problems Solved:** 193
 - **Easy:** 68 🟢
 - **Medium:** 110 🟡
-- **Hard:** 14 🔴
+- **Hard:** 15 🔴
 
 ## 📝 Problems
 
@@ -200,6 +200,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1932416373/) | 🔴 Hard | cpp | 2026-02-27 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/1932429850/) | 🔴 Hard | cpp | 2026-02-27 |
 | [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/submissions/1935125747/) | 🔴 Hard | cpp | 2026-03-01 |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/1944587521/) | 🔴 Hard | cpp | 2026-03-11 |
 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/submissions/1934103674/) | 🔴 Hard | cpp | 2026-02-28 |
 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/submissions/1934106817/) | 🔴 Hard | cpp | 2026-02-28 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1932580165/) | 🔴 Hard | cpp | 2026-02-27 |

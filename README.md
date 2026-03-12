@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 195
-- **Easy:** 68 🟢
+- **Total Problems Solved:** 196
+- **Easy:** 69 🟢
 - **Medium:** 112 🟡
 - **Hard:** 15 🔴
 
@@ -46,6 +46,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1925948316/) | 🟢 Easy | cpp | 2026-02-21 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1942283687/) | 🟢 Easy | cpp | 2026-03-08 |
+| [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/submissions/1945596332/) | 🟢 Easy | cpp | 2026-03-12 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1926716708/) | 🟢 Easy | cpp | 2026-02-21 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1941712510/) | 🟢 Easy | cpp | 2026-03-08 |

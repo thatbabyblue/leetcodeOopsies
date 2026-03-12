@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 196
-- **Easy:** 69 🟢
+- **Total Problems Solved:** 197
+- **Easy:** 70 🟢
 - **Medium:** 112 🟡
 - **Hard:** 15 🔴
 
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1926838041/) | 🟢 Easy | cpp | 2026-02-22 |
 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1935051179/) | 🟢 Easy | cpp | 2026-03-01 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1921559232/) | 🟢 Easy | cpp | 2026-02-16 |
+| [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/1945610803/) | 🟢 Easy | cpp | 2026-03-12 |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/1927838884/) | 🟢 Easy | cpp | 2026-02-22 |
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/1922889220/) | 🟢 Easy | cpp | 2026-02-18 |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1921552624/) | 🟢 Easy | cpp | 2026-02-16 |

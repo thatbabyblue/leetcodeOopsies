@@ -1,9 +1,9 @@
 /*
  * Problem: 160. Intersection of Two Linked Lists
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1926838041/
+ * Link: https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1946692470/
  * Language: cpp
- * Date: 2026-02-22
+ * Date: 2026-03-13
  */
 
 /**
@@ -17,26 +17,26 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        int sizeA = 0;
+        int sizeB = 0;
         ListNode* curA = headA;
         ListNode* curB = headB;
-        int lenA = 0;
-        int lenB = 0;
         while (curA) {
+            sizeA++;
             curA = curA->next;
-            lenA++;
         }
         while (curB) {
+            sizeB++;
             curB = curB->next;
-            lenB++;
         }
         curA = headA;
         curB = headB;
-        if (lenB >= lenA) {
+        if (sizeB > sizeA) {
             swap(curA, curB);
-            swap(lenA, lenB);
+            swap(sizeA, sizeB);
         }
-        int gap = lenA - lenB;
-        while(gap--) {
+        int gap = sizeA - sizeB;
+        while (gap--) {
             curA = curA->next;
         }
         while (curA) {
@@ -45,5 +45,6 @@ public:
             curB = curB->next;
         }
         return NULL;
+
     }
 };

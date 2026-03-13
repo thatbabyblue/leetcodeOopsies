@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 197
+- **Total Problems Solved:** 198
 - **Easy:** 70 🟢
-- **Medium:** 112 🟡
+- **Medium:** 113 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -173,6 +173,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/1933299700/) | 🟡 Medium | cpp | 2026-02-28 |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/1933393647/) | 🟡 Medium | cpp | 2026-02-28 |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1924742629/) | 🟡 Medium | cpp | 2026-02-19 |
+| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/submissions/1946603875/) | 🟡 Medium | cpp | 2026-03-13 |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/submissions/1927744918/) | 🟡 Medium | cpp | 2026-02-22 |
 | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/1927776544/) | 🟡 Medium | cpp | 2026-02-22 |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/submissions/1928790030/) | 🟡 Medium | cpp | 2026-02-23 |

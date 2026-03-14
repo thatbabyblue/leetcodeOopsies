@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 205
+- **Total Problems Solved:** 206
 - **Easy:** 74 🟢
-- **Medium:** 116 🟡
+- **Medium:** 117 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -155,6 +155,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [46. Permutations](https://leetcode.com/problems/permutations/submissions/1925724271/) | 🟡 Medium | cpp | 2026-02-20 |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/submissions/1925740945/) | 🟡 Medium | cpp | 2026-02-20 |
 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/submissions/1925903322/) | 🟡 Medium | cpp | 2026-02-21 |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1947561236/) | 🟡 Medium | cpp | 2026-03-14 |
 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/submissions/1925717531/) | 🟡 Medium | cpp | 2026-02-20 |
 | [494. Target Sum](https://leetcode.com/problems/target-sum/submissions/1925890559/) | 🟡 Medium | cpp | 2026-02-21 |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/1932390590/) | 🟡 Medium | cpp | 2026-02-27 |

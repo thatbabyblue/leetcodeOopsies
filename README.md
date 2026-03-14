@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 209
-- **Easy:** 76 🟢
+- **Total Problems Solved:** 210
+- **Easy:** 77 🟢
 - **Medium:** 118 🟡
 - **Hard:** 15 🔴
 
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1946692470/) | 🟢 Easy | cpp | 2026-03-13 |
 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1935051179/) | 🟢 Easy | cpp | 2026-03-01 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1921559232/) | 🟢 Easy | cpp | 2026-02-16 |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/submissions/1948297202/) | 🟢 Easy | cpp | 2026-03-14 |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/1945610803/) | 🟢 Easy | cpp | 2026-03-12 |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/1927838884/) | 🟢 Easy | cpp | 2026-02-22 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1946626473/) | 🟢 Easy | cpp | 2026-03-13 |

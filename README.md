@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 207
-- **Easy:** 74 🟢
+- **Total Problems Solved:** 208
+- **Easy:** 75 🟢
 - **Medium:** 118 🟡
 - **Hard:** 15 🔴
 
@@ -52,6 +52,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1942283687/) | 🟢 Easy | cpp | 2026-03-08 |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/submissions/1945596332/) | 🟢 Easy | cpp | 2026-03-12 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/1947599995/) | 🟢 Easy | cpp | 2026-03-14 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1926716708/) | 🟢 Easy | cpp | 2026-02-21 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1941712510/) | 🟢 Easy | cpp | 2026-03-08 |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/1942223669/) | 🟢 Easy | cpp | 2026-03-08 |

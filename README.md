@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 204
-- **Easy:** 73 🟢
+- **Total Problems Solved:** 205
+- **Easy:** 74 🟢
 - **Medium:** 116 🟡
 - **Hard:** 15 🔴
 
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1926716708/) | 🟢 Easy | cpp | 2026-02-21 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1941712510/) | 🟢 Easy | cpp | 2026-03-08 |
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/1942223669/) | 🟢 Easy | cpp | 2026-03-08 |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note/submissions/1947549238/) | 🟢 Easy | cpp | 2026-03-14 |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/1927817056/) | 🟢 Easy | cpp | 2026-02-22 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922988463/) | 🟢 Easy | cpp | 2026-02-18 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1922996414/) | 🟢 Easy | cpp | 2026-02-18 |

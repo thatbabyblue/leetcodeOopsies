@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 202
+- **Total Problems Solved:** 203
 - **Easy:** 72 🟢
-- **Medium:** 115 🟡
+- **Medium:** 116 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -109,6 +109,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1929371824/) | 🟡 Medium | cpp | 2026-02-24 |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/submissions/1931067311/) | 🟡 Medium | cpp | 2026-02-25 |
 | [139. Word Break](https://leetcode.com/problems/word-break/submissions/1926813249/) | 🟡 Medium | cpp | 2026-02-22 |
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1947542438/) | 🟡 Medium | cpp | 2026-03-14 |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/submissions/1926828943/) | 🟡 Medium | cpp | 2026-02-22 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1921567968/) | 🟡 Medium | cpp | 2026-02-16 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1921438690/) | 🟡 Medium | cpp | 2026-02-16 |

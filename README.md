@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 215
-- **Easy:** 79 🟢
+- **Total Problems Solved:** 216
+- **Easy:** 80 🟢
 - **Medium:** 121 🟡
 - **Hard:** 15 🔴
 
@@ -73,6 +73,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1925804360/) | 🟢 Easy | cpp | 2026-02-20 |
 | [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/1924030186/) | 🟢 Easy | cpp | 2026-02-19 |
 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1921360487/) | 🟢 Easy | cpp | 2026-02-16 |
+| [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1948432448/) | 🟢 Easy | cpp | 2026-03-14 |
 | [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1922835026/) | 🟢 Easy | cpp | 2026-02-18 |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | 🟢 Easy | cpp | 2026-02-18 |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923978077/) | 🟢 Easy | cpp | 2026-02-19 |

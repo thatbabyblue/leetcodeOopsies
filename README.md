@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 212
+- **Total Problems Solved:** 213
 - **Easy:** 78 🟢
-- **Medium:** 119 🟡
+- **Medium:** 120 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -146,6 +146,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/submissions/1929221791/) | 🟡 Medium | cpp | 2026-02-24 |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/submissions/1926787911/) | 🟡 Medium | cpp | 2026-02-21 |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/submissions/1925052721/) | 🟡 Medium | cpp | 2026-02-20 |
+| [3Sum](https://leetcode.com/problems/3sum/description/) | 🟡 Medium | cpp | 2026-03-14 |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/1925120374/) | 🟡 Medium | cpp | 2026-02-20 |
 | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/submissions/1931299210/) | 🟡 Medium | cpp | 2026-02-26 |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1925868893/) | 🟡 Medium | cpp | 2026-02-21 |

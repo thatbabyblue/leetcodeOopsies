@@ -1,18 +1,16 @@
 /*
  * Problem: 344. Reverse String
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/reverse-string/description/
+ * Link: https://leetcode.com/problems/reverse-string/submissions/1948427017/
  * Language: cpp
- * Date: 2026-02-16
+ * Date: 2026-03-14
  */
 
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        for (int left = 0, right = s.size() - 1; left < right; left++, right--) {
-            char temp = s[left];
-            s[left] = s[right];
-            s[right] = temp;
+        for (int i = 0, j = s.size() - 1; i < j; i++, j--) {
+            swap(s[i], s[j]);
         }
     }
 };

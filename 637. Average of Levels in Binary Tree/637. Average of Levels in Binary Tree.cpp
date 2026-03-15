@@ -1,9 +1,9 @@
 /*
  * Problem: 637. Average of Levels in Binary Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1922530963/
+ * Link: https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1949519186/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /**
@@ -20,8 +20,8 @@
 class Solution {
 public:
     vector<double> averageOfLevels(TreeNode* root) {
-        vector<double> res;
         queue<TreeNode*> que;
+        vector<double> res;
         if (root != nullptr) que.push(root);
         while (!que.empty()) {
             int size = que.size();
@@ -30,10 +30,10 @@ public:
                 TreeNode* node = que.front();
                 que.pop();
                 sum += node->val;
-                if (i == size - 1) res.push_back(sum / size);
                 if (node->left) que.push(node->left);
                 if (node->right) que.push(node->right);
             }
+            res.push_back(sum / size);
         }
         return res;
     }

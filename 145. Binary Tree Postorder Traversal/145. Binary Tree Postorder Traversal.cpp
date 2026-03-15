@@ -1,7 +1,7 @@
 /*
  * Problem: 145. Binary Tree Postorder Traversal
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1949405248/
+ * Link: https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1949421508/
  * Language: cpp
  * Date: 2026-03-15
  */
@@ -19,15 +19,19 @@
  */
 class Solution {
 public:
-    void traversal(TreeNode* cur, vector<int>& vec) {
-        if (cur == nullptr) return;
-        traversal(cur->left, vec);
-        traversal(cur->right, vec);
-        vec.push_back(cur->val);
-    }
     vector<int> postorderTraversal(TreeNode* root) {
+        stack<TreeNode*> st;
         vector<int> res;
-        traversal(root, res);
+        if (root == nullptr) return res;
+        st.push(root);
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+            res.push_back(node->val);
+            if (node->left) st.push(node->left);
+            if (node->right) st.push(node->right);
+        }
+        reverse(res.begin(), res.end());
         return res;
     }
 };

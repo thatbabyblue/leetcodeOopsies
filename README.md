@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 226
-- **Easy:** 85 🟢
+- **Total Problems Solved:** 227
+- **Easy:** 86 🟢
 - **Medium:** 126 🟡
 - **Hard:** 15 🔴
 
@@ -82,6 +82,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923978077/) | 🟢 Easy | cpp | 2026-02-19 |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923980393/) | 🟢 Easy | cpp | 2026-02-19 |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1922530963/) | 🟢 Easy | cpp | 2026-02-17 |
+| [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1949519186/) | 🟢 Easy | cpp | 2026-03-15 |
 | [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/1927767099/) | 🟢 Easy | cpp | 2026-02-22 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | 🟢 Easy | cpp | 2026-03-08 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1925807661/) | 🟢 Easy | cpp | 2026-02-20 |

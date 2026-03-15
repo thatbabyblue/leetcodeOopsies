@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 219
-- **Easy:** 81 🟢
+- **Total Problems Solved:** 220
+- **Easy:** 82 🟢
 - **Medium:** 123 🟡
 - **Hard:** 15 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | cpp | 2026-02-17 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921657178/) | 🟢 Easy | cpp | 2026-02-17 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1921668454/) | 🟢 Easy | cpp | 2026-02-17 |
+| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1949405248/) | 🟢 Easy | cpp | 2026-03-15 |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1926838041/) | 🟢 Easy | cpp | 2026-02-22 |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1946692470/) | 🟢 Easy | cpp | 2026-03-13 |
 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/1935051179/) | 🟢 Easy | cpp | 2026-03-01 |

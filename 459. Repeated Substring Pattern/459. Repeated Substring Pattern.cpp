@@ -1,9 +1,9 @@
 /*
  * Problem: 459. Repeated Substring Pattern
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/repeated-substring-pattern/
+ * Link: https://leetcode.com/problems/repeated-substring-pattern/submissions/1948762466/
  * Language: cpp
- * Date: 2026-02-16
+ * Date: 2026-03-15
  */
 
 class Solution {

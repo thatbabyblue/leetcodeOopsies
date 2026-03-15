@@ -1,9 +1,9 @@
 /*
  * Problem: 107. Binary Tree Level Order Traversal II
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/
+ * Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/1949513380/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /**
@@ -20,8 +20,8 @@
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-        queue<TreeNode*> que;
         vector<vector<int>> res;
+        queue<TreeNode*> que;
         if (root != nullptr) que.push(root);
         while (!que.empty()) {
             int size = que.size();

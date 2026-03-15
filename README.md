@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 223
+- **Total Problems Solved:** 224
 - **Easy:** 85 🟢
-- **Medium:** 123 🟡
+- **Medium:** 124 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -99,6 +99,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 🟢 Easy | cpp | 2026-02-21 |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1942294235/) | 🟢 Easy | cpp | 2026-03-08 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |
+| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1949508068/) | 🟡 Medium | cpp | 2026-03-15 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/submissions/1933415967/) | 🟡 Medium | cpp | 2026-02-28 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/submissions/1933432893/) | 🟡 Medium | cpp | 2026-02-28 |
 | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/submissions/1927797673/) | 🟡 Medium | cpp | 2026-02-22 |

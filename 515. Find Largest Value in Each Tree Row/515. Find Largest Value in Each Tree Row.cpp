@@ -1,9 +1,9 @@
 /*
  * Problem: 515. Find Largest Value in Each Tree Row
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1922617618/
+ * Link: https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/1949522672/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /**
@@ -36,5 +36,5 @@ public:
             res.push_back(max);
         }
         return res;
-    }   
+    }
 };

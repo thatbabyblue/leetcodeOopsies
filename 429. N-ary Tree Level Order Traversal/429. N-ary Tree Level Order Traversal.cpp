@@ -1,9 +1,9 @@
 /*
  * Problem: 429. N-ary Tree Level Order Traversal
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/
+ * Link: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /*
@@ -39,12 +39,12 @@ public:
                 Node* node = que.front();
                 que.pop();
                 vec.push_back(node->val);
-                for (int j = 0; j < node->children.size(); j++) {
-                    if (node->children[j]) que.push(node->children[j]);
+                for (Node* child : node->children) {
+                    que.push(child);
                 }
             }
             res.push_back(vec);
-        }
+        } 
         return res;
     }
 };

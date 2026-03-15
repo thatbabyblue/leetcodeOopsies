@@ -1,9 +1,9 @@
 /*
  * Problem: 199. Binary Tree Right Side View
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/
+ * Link: https://leetcode.com/problems/binary-tree-right-side-view/submissions/1949514397/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /**
@@ -20,11 +20,12 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<int> res;
         queue<TreeNode*> que;
+        vector<int> res;
         if (root != nullptr) que.push(root);
         while (!que.empty()) {
             int size = que.size();
+            vector<int> vec;
             for (int i = 0; i < size; i++) {
                 TreeNode* node = que.front();
                 que.pop();

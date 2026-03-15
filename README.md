@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 231
-- **Easy:** 86 🟢
+- **Total Problems Solved:** 232
+- **Easy:** 87 🟢
 - **Medium:** 130 🟡
 - **Hard:** 15 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1922702164/) | 🟢 Easy | cpp | 2026-02-18 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922640473/) | 🟢 Easy | cpp | 2026-02-17 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922825086/) | 🟢 Easy | cpp | 2026-02-18 |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1949531600/) | 🟢 Easy | cpp | 2026-03-15 |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1921562431/) | 🟢 Easy | cpp | 2026-02-16 |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-20 |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1922936691/) | 🟢 Easy | cpp | 2026-02-18 |

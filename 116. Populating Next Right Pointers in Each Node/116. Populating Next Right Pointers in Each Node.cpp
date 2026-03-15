@@ -1,9 +1,9 @@
 /*
  * Problem: 116. Populating Next Right Pointers in Each Node
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/1922635585/
+ * Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/1949529323/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /*
@@ -31,19 +31,19 @@ public:
         if (root != NULL) que.push(root);
         while (!que.empty()) {
             int size = que.size();
-            Node* pre = que.front();
+            Node* pre  = que.front();
             que.pop();
             if (pre->left) que.push(pre->left);
             if (pre->right) que.push(pre->right);
             for (int i = 1; i < size; i++) {
                 Node* cur = que.front();
                 que.pop();
+                pre->next = cur;
                 if (cur->left) que.push(cur->left);
                 if (cur->right) que.push(cur->right);
-                pre->next = cur;
                 pre = cur;
             }
-        }
+        } 
         return root;
     }
 };

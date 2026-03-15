@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 225
+- **Total Problems Solved:** 226
 - **Easy:** 85 🟢
-- **Medium:** 125 🟡
+- **Medium:** 126 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -136,6 +136,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1946666430/) | 🟡 Medium | cpp | 2026-03-13 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1926857705/) | 🟡 Medium | cpp | 2026-02-22 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/) | 🟡 Medium | cpp | 2026-02-17 |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1949514397/) | 🟡 Medium | cpp | 2026-03-15 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1933279037/) | 🟡 Medium | cpp | 2026-02-28 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1933289248/) | 🟡 Medium | cpp | 2026-02-28 |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1943558561/) | 🟡 Medium | cpp | 2026-03-10 |

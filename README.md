@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 218
+- **Total Problems Solved:** 219
 - **Easy:** 81 🟢
-- **Medium:** 122 🟡
+- **Medium:** 123 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -126,6 +126,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1935257035/) | 🟡 Medium | cpp | 2026-03-02 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1925027274/) | 🟡 Medium | cpp | 2026-02-20 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1926681848/) | 🟡 Medium | cpp | 2026-02-21 |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1948737417/) | 🟡 Medium | cpp | 2026-03-15 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1946666430/) | 🟡 Medium | cpp | 2026-03-13 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/submissions/1926857705/) | 🟡 Medium | cpp | 2026-02-22 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1921695762/) | 🟡 Medium | cpp | 2026-02-17 |

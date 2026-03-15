@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 220
-- **Easy:** 82 🟢
+- **Total Problems Solved:** 221
+- **Easy:** 83 🟢
 - **Medium:** 123 🟡
 - **Hard:** 15 🔴
 
@@ -93,6 +93,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/submissions/1926712536/) | 🟢 Easy | cpp | 2026-02-21 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921658549/) | 🟢 Easy | cpp | 2026-02-17 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1921680416/) | 🟢 Easy | cpp | 2026-02-17 |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1949408121/) | 🟢 Easy | cpp | 2026-03-15 |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 🟢 Easy | cpp | 2026-02-21 |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1942294235/) | 🟢 Easy | cpp | 2026-03-08 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1921688665/) | 🟡 Medium | cpp | 2026-02-17 |

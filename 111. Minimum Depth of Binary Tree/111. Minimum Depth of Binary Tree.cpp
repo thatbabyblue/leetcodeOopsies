@@ -1,9 +1,9 @@
 /*
  * Problem: 111. Minimum Depth of Binary Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1922866198/
+ * Link: https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1949533790/
  * Language: cpp
- * Date: 2026-02-18
+ * Date: 2026-03-15
  */
 
 /**
@@ -20,11 +20,20 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        if (root == nullptr) return 0;
-        int leftDepth = minDepth(root->left);
-        int rightDepth = minDepth(root->right);
-        if (root->left && !root->right) return 1 + leftDepth;
-        if (!root->left && root->right) return 1 + rightDepth;
-        return 1 + min(leftDepth, rightDepth);
+        queue<TreeNode*> que;
+        int res = 0;
+        if (root != nullptr) que.push(root);
+        while (!que.empty()) {
+            int size = que.size();
+            res++;
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = que.front();
+                que.pop();
+                if (!node->left && !node->right) return res;
+                if (node->left) que.push(node->left);
+                if (node->right) que.push(node->right);
+            }
+        }
+        return res;
     }
 };

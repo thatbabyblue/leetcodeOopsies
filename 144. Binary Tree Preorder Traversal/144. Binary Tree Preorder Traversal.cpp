@@ -1,9 +1,9 @@
 /*
  * Problem: 144. Binary Tree Preorder Traversal
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1921681176/
+ * Link: https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1949396451/
  * Language: cpp
- * Date: 2026-02-17
+ * Date: 2026-03-15
  */
 
 /**
@@ -19,18 +19,15 @@
  */
 class Solution {
 public:
+    void traversal(TreeNode* cur, vector<int>& vec) {
+        if (cur == nullptr) return;
+        vec.push_back(cur->val);
+        traversal(cur->left, vec);
+        traversal(cur->right, vec);
+    }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> res;
-        stack<TreeNode*> st;
-        if (root == nullptr) return res;
-        st.push(root);
-        while (!st.empty()) {
-            TreeNode* node = st.top();
-            st.pop();
-            res.push_back(node->val);
-            if (node->right) st.push(node->right);
-            if (node->left) st.push(node->left);
-        }
+        traversal(root, res);
         return res;
     }
 };

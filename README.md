@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 232
-- **Easy:** 87 🟢
+- **Total Problems Solved:** 233
+- **Easy:** 88 🟢
 - **Medium:** 130 🟡
 - **Hard:** 15 🔴
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-20 |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1922936691/) | 🟢 Easy | cpp | 2026-02-18 |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1922866198/) | 🟢 Easy | cpp | 2026-02-18 |
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1949533790/) | 🟢 Easy | cpp | 2026-03-15 |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/submissions/1923757479/) | 🟢 Easy | cpp | 2026-02-18 |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/submissions/1925944415/) | 🟢 Easy | cpp | 2026-02-21 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1926964217/) | 🟢 Easy | cpp | 2026-02-22 |

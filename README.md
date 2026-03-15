@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 227
+- **Total Problems Solved:** 228
 - **Easy:** 86 🟢
-- **Medium:** 126 🟡
+- **Medium:** 127 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -166,6 +166,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1934056120/) | 🟡 Medium | cpp | 2026-02-28 |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1934064128/) | 🟡 Medium | cpp | 2026-02-28 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
+| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 🟡 Medium | cpp | 2026-03-15 |
 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/submissions/1931487285/) | 🟡 Medium | cpp | 2026-02-26 |
 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/1947592994/) | 🟡 Medium | cpp | 2026-03-14 |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1929331681/) | 🟡 Medium | cpp | 2026-02-24 |

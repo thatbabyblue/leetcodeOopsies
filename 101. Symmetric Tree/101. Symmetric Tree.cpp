@@ -1,7 +1,7 @@
 /*
  * Problem: 101. Symmetric Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/symmetric-tree/submissions/1949660019/
+ * Link: https://leetcode.com/problems/symmetric-tree/submissions/1949667757/
  * Language: cpp
  * Date: 2026-03-16
  */
@@ -19,15 +19,23 @@
  */
 class Solution {
 public:
-    bool compare(TreeNode* left, TreeNode* right) {
-        if (left == nullptr && right == nullptr) return true;
-        else if (left == nullptr && right != nullptr) return false;
-        else if (left != nullptr && right == nullptr) return false;
-        else if (left->val != right->val) return false;
-        return compare(left->left, right->right) && compare(left->right, right->left);
-    }
     bool isSymmetric(TreeNode* root) {
         if (root == nullptr) return true;
-        return compare(root->left, root->right);
+        queue<TreeNode*> que;
+        que.push(root->left);
+        que.push(root->right);
+        while (!que.empty()) {
+            TreeNode* leftNode = que.front();
+            que.pop();
+            TreeNode* rightNode = que.front();
+            que.pop();
+            if (!leftNode && !rightNode) continue;
+            if (leftNode == nullptr || rightNode == nullptr || leftNode->val != rightNode->val) return false;
+            que.push(leftNode->left);
+            que.push(rightNode->right);
+            que.push(leftNode->right);
+            que.push(rightNode->left);
+        }
+        return true;
     }
 };

@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 233
-- **Easy:** 88 🟢
+- **Total Problems Solved:** 234
+- **Easy:** 89 🟢
 - **Medium:** 130 🟡
 - **Hard:** 15 🔴
 
@@ -47,6 +47,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/1922889220/) | 🟢 Easy | cpp | 2026-02-18 |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1921552624/) | 🟢 Easy | cpp | 2026-02-16 |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/1922690063/) | 🟢 Easy | cpp | 2026-02-18 |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/1949651957/) | 🟢 Easy | cpp | 2026-03-16 |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1921546930/) | 🟢 Easy | cpp | 2026-02-16 |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | 🟢 Easy | cpp | 2026-02-22 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1947545298/) | 🟢 Easy | cpp | 2026-03-14 |

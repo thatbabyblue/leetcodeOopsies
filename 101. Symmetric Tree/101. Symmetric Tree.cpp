@@ -1,9 +1,9 @@
 /*
  * Problem: 101. Symmetric Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/symmetric-tree/submissions/1922702164/
+ * Link: https://leetcode.com/problems/symmetric-tree/submissions/1949660019/
  * Language: cpp
- * Date: 2026-02-18
+ * Date: 2026-03-16
  */
 
 /**
@@ -21,11 +21,10 @@ class Solution {
 public:
     bool compare(TreeNode* left, TreeNode* right) {
         if (left == nullptr && right == nullptr) return true;
-        else if (left == nullptr || right == nullptr) return false;
+        else if (left == nullptr && right != nullptr) return false;
+        else if (left != nullptr && right == nullptr) return false;
         else if (left->val != right->val) return false;
-        bool outer = compare(left->left, right->right);
-        bool inner = compare(left->right, right->left);
-        return outer && inner;
+        return compare(left->left, right->right) && compare(left->right, right->left);
     }
     bool isSymmetric(TreeNode* root) {
         if (root == nullptr) return true;

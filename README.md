@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 235
-- **Easy:** 90 🟢
+- **Total Problems Solved:** 236
+- **Easy:** 91 🟢
 - **Medium:** 130 🟡
 - **Hard:** 15 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/1927864454/) | 🟢 Easy | cpp | 2026-02-22 |
 | [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/submissions/1929357952/) | 🟢 Easy | cpp | 2026-02-24 |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1922702164/) | 🟢 Easy | cpp | 2026-02-18 |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1949660019/) | 🟢 Easy | cpp | 2026-03-16 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922640473/) | 🟢 Easy | cpp | 2026-02-17 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1922825086/) | 🟢 Easy | cpp | 2026-02-18 |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1949531600/) | 🟢 Easy | cpp | 2026-03-15 |

@@ -1,7 +1,7 @@
 /*
  * Problem: 226. Invert Binary Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/invert-binary-tree/submissions/1949651957/
+ * Link: https://leetcode.com/problems/invert-binary-tree/submissions/1949654470/
  * Language: cpp
  * Date: 2026-03-16
  */
@@ -19,17 +19,14 @@
  */
 class Solution {
 public:
+    void traversal(TreeNode* cur) {
+        if (cur == nullptr) return;
+        swap(cur->left, cur->right);
+        traversal(cur->left);
+        traversal(cur->right);
+    }
     TreeNode* invertTree(TreeNode* root) {
-        if (root == nullptr) return root;
-        stack<TreeNode*> st;
-        st.push(root);
-        while (!st.empty()) {
-            TreeNode* node = st.top();
-            st.pop();
-            swap(node->left, node->right);
-            if (node->right) st.push(node->right);
-            if (node->left) st.push(node->left);
-        }
+        traversal(root);
         return root;
     }
 };

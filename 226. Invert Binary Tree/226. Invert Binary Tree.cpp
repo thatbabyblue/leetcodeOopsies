@@ -1,9 +1,9 @@
 /*
  * Problem: 226. Invert Binary Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/invert-binary-tree/submissions/1922690063/
+ * Link: https://leetcode.com/problems/invert-binary-tree/submissions/1949651957/
  * Language: cpp
- * Date: 2026-02-18
+ * Date: 2026-03-16
  */
 
 /**
@@ -19,14 +19,17 @@
  */
 class Solution {
 public:
-    void invert(TreeNode* cur) {
-        if (cur == nullptr) return;
-        invert(cur->left);
-        invert(cur->right);
-        swap(cur->left, cur->right);
-    }
     TreeNode* invertTree(TreeNode* root) {
-        invert(root);
+        if (root == nullptr) return root;
+        stack<TreeNode*> st;
+        st.push(root);
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+            swap(node->left, node->right);
+            if (node->right) st.push(node->right);
+            if (node->left) st.push(node->left);
+        }
         return root;
     }
 };

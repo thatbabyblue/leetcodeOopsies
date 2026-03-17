@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 240
-- **Easy:** 93 🟢
+- **Total Problems Solved:** 241
+- **Easy:** 94 🟢
 - **Medium:** 132 🟡
 - **Hard:** 15 🔴
 
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [112. Path Sum](https://leetcode.com/problems/path-sum/submissions/1923757479/) | 🟢 Easy | cpp | 2026-02-18 |
 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/submissions/1925944415/) | 🟢 Easy | cpp | 2026-02-21 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1926964217/) | 🟢 Easy | cpp | 2026-02-22 |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1951241841/) | 🟢 Easy | cpp | 2026-03-17 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1950642230/) | 🟢 Easy | cpp | 2026-03-17 |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1925926950/) | 🟢 Easy | cpp | 2026-02-21 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1926832788/) | 🟢 Easy | cpp | 2026-02-22 |

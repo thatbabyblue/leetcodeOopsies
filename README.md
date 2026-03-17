@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 238
+- **Total Problems Solved:** 239
 - **Easy:** 93 🟢
-- **Medium:** 130 🟡
+- **Medium:** 131 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -140,6 +140,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1921438690/) | 🟡 Medium | cpp | 2026-02-16 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1948726385/) | 🟡 Medium | cpp | 2026-03-15 |
 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1935257035/) | 🟡 Medium | cpp | 2026-03-02 |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1950651303/) | 🟡 Medium | cpp | 2026-03-17 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1925027274/) | 🟡 Medium | cpp | 2026-02-20 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1926681848/) | 🟡 Medium | cpp | 2026-02-21 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1948737417/) | 🟡 Medium | cpp | 2026-03-15 |

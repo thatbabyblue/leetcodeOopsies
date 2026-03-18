@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 243
-- **Easy:** 95 🟢
+- **Total Problems Solved:** 244
+- **Easy:** 96 🟢
 - **Medium:** 133 🟡
 - **Hard:** 15 🔴
 
@@ -88,6 +88,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/submissions/1948432961/) | 🟢 Easy | cpp | 2026-03-14 |
 | [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1922835026/) | 🟢 Easy | cpp | 2026-02-18 |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | 🟢 Easy | cpp | 2026-02-18 |
+| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/1951804619/) | 🟢 Easy | cpp | 2026-03-18 |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923978077/) | 🟢 Easy | cpp | 2026-02-19 |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/1923980393/) | 🟢 Easy | cpp | 2026-02-19 |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/1922530963/) | 🟢 Easy | cpp | 2026-02-17 |

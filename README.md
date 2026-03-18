@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 242
-- **Easy:** 94 🟢
+- **Total Problems Solved:** 243
+- **Easy:** 95 🟢
 - **Medium:** 133 🟡
 - **Hard:** 15 🔴
 
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | cpp | 2026-03-14 |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/1922713902/) | 🟢 Easy | cpp | 2026-02-18 |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/1927864454/) | 🟢 Easy | cpp | 2026-02-22 |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/submissions/1951787312/) | 🟢 Easy | cpp | 2026-03-18 |
 | [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/submissions/1929357952/) | 🟢 Easy | cpp | 2026-02-24 |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1922702164/) | 🟢 Easy | cpp | 2026-02-18 |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/1949660019/) | 🟢 Easy | cpp | 2026-03-16 |

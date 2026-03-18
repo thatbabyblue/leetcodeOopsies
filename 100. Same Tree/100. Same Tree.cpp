@@ -1,9 +1,9 @@
 /*
  * Problem: 100. Same Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/same-tree/submissions/1927864454/
+ * Link: https://leetcode.com/problems/same-tree/submissions/1951787312/
  * Language: cpp
- * Date: 2026-02-22
+ * Date: 2026-03-18
  */
 
 /**
@@ -21,10 +21,8 @@ class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
         if (p == nullptr && q == nullptr) return true;
-        if (p == nullptr || q == nullptr) return false;
-        if (p->val != q->val) return false;
-        bool left = isSameTree(p->left, q->left);
-        bool right = isSameTree(p->right, q->right);
-        return left && right;
+        else if (p == nullptr || q == nullptr) return false;
+        else if (p->val != q->val) return false;
+        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
     }
 };

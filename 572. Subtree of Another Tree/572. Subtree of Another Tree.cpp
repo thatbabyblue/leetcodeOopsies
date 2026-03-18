@@ -1,9 +1,9 @@
 /*
  * Problem: 572. Subtree of Another Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/subtree-of-another-tree/description/
+ * Link: https://leetcode.com/problems/subtree-of-another-tree/submissions/1951804619/
  * Language: cpp
- * Date: 2026-02-18
+ * Date: 2026-03-18
  */
 
 /**
@@ -19,17 +19,15 @@
  */
 class Solution {
 public:
-    bool isSame(TreeNode* tree1, TreeNode* tree2) {
-        if (tree1 == nullptr && tree2 == nullptr) return true;
-        else if (tree1 == nullptr || tree2 == nullptr) return false;
-        else if (tree1->val != tree2->val) return false;
-        bool left = isSame(tree1->left, tree2->left);
-        bool right = isSame(tree1->right, tree2->right);
-        return left && right;
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        if (p == nullptr && q == nullptr) return true;
+        else if (p == nullptr || q == nullptr) return false;
+        else if (p->val != q->val) return false;
+        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if (root == nullptr) return false;
-        if (isSame(root, subRoot)) return true;
+        if (isSameTree(root, subRoot)) return true;
         return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 };

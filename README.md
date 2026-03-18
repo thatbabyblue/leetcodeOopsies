@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 241
+- **Total Problems Solved:** 242
 - **Easy:** 94 🟢
-- **Medium:** 132 🟡
+- **Medium:** 133 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -158,6 +158,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1924727800/) | 🟡 Medium | cpp | 2026-02-19 |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1946644872/) | 🟡 Medium | cpp | 2026-03-13 |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/submissions/1926808693/) | 🟡 Medium | cpp | 2026-02-22 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1951716641/) | 🟡 Medium | cpp | 2026-03-18 |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/1927753440/) | 🟡 Medium | cpp | 2026-02-22 |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/1927737305/) | 🟡 Medium | cpp | 2026-02-22 |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/submissions/1926804841/) | 🟡 Medium | cpp | 2026-02-22 |

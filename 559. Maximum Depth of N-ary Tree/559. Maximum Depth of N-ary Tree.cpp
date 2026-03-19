@@ -1,9 +1,9 @@
 /*
  * Problem: 559. Maximum Depth of N-ary Tree
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1922835026/
+ * Link: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/submissions/1952637815/
  * Language: cpp
- * Date: 2026-02-18
+ * Date: 2026-03-19
  */
 
 /*
@@ -30,12 +30,12 @@ class Solution {
 public:
     int getDepth(Node* node) {
         if (node == NULL) return 0;
-        int max = INT_MIN;
+        int depth = 0;
         for (int i = 0; i < node->children.size(); i++) {
-            int curD = getDepth(node->children[i]);
-            if (curD > max) max = curD;
+            depth = max(depth, getDepth(node->children[i]));
         }
-        return max == INT_MIN ? 1 : 1 + max;
+        depth = 1 + depth;
+        return depth;
     }
     int maxDepth(Node* root) {
         return getDepth(root);

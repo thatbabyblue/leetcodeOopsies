@@ -1,20 +1,19 @@
 /*
  * Problem: 303. Range Sum Query - Immutable
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/range-sum-query-immutable/submissions/1945596332/
+ * Link: https://leetcode.com/problems/range-sum-query-immutable/submissions/1952618330/
  * Language: cpp
- * Date: 2026-03-12
+ * Date: 2026-03-19
  */
 
 class NumArray {
-private:
-    std::vector<int> prefix;
 public:
+    vector<int> prefix;
     NumArray(vector<int>& nums) {
-       prefix.resize(nums.size() + 1);
-       for (int i = 0; i < nums.size(); i++) {
-        prefix[i + 1] = prefix[i] + nums[i];
-       } 
+        prefix.resize(nums.size() + 1, 0);
+        for (int i = 1; i < prefix.size(); i++) {
+            prefix[i] = prefix[i - 1] + nums[i - 1];
+        }
     }
     
     int sumRange(int left, int right) {

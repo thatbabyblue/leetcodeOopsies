@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 251
+- **Total Problems Solved:** 252
 - **Easy:** 101 🟢
-- **Medium:** 135 🟡
+- **Medium:** 136 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -124,6 +124,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/1923868842/) | 🟡 Medium | cpp | 2026-02-19 |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | 🟡 Medium | cpp | 2026-02-17 |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/1949513380/) | 🟡 Medium | cpp | 2026-03-15 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | cpp | 2026-03-20 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/1923763568/) | 🟡 Medium | cpp | 2026-02-18 |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1927784703/) | 🟡 Medium | cpp | 2026-02-22 |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1927796738/) | 🟡 Medium | cpp | 2026-02-22 |

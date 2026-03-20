@@ -1,9 +1,9 @@
 /*
  * Problem: 222. Count Complete Tree Nodes
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/count-complete-tree-nodes/submissions/1922889220/
+ * Link: https://leetcode.com/problems/count-complete-tree-nodes/submissions/1953484498/
  * Language: cpp
- * Date: 2026-02-18
+ * Date: 2026-03-20
  */
 
 /**
@@ -23,8 +23,7 @@ public:
         if (root == nullptr) return 0;
         TreeNode* left = root->left;
         TreeNode* right = root->right;
-        int leftDepth = 0;
-        int rightDepth = 0;
+        int leftDepth = 0, rightDepth = 0;
         while (left) {
             left = left->left;
             leftDepth++;
@@ -34,6 +33,6 @@ public:
             rightDepth++;
         }
         if (leftDepth == rightDepth) return (2 << leftDepth) - 1;
-        return countNodes(root->left) + countNodes(root->right) + 1;
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };

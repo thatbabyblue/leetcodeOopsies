@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 250
+- **Total Problems Solved:** 251
 - **Easy:** 101 🟢
-- **Medium:** 134 🟡
+- **Medium:** 135 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -163,6 +163,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/1925008846/) | 🟡 Medium | cpp | 2026-02-20 |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/1924737190/) | 🟡 Medium | cpp | 2026-02-19 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1924727800/) | 🟡 Medium | cpp | 2026-02-19 |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1953547777/) | 🟡 Medium | cpp | 2026-03-20 |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1946644872/) | 🟡 Medium | cpp | 2026-03-13 |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/submissions/1926808693/) | 🟡 Medium | cpp | 2026-02-22 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1951716641/) | 🟡 Medium | cpp | 2026-03-18 |

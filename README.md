@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 252
-- **Easy:** 101 🟢
+- **Total Problems Solved:** 253
+- **Easy:** 102 🟢
 - **Medium:** 136 🟡
 - **Hard:** 15 🔴
 
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1921562431/) | 🟢 Easy | cpp | 2026-02-16 |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | 🟢 Easy | cpp | 2026-02-20 |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1922936691/) | 🟢 Easy | cpp | 2026-02-18 |
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1954326253/) | 🟢 Easy | cpp | 2026-03-20 |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1922866198/) | 🟢 Easy | cpp | 2026-02-18 |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1949533790/) | 🟢 Easy | cpp | 2026-03-15 |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/1952747977/) | 🟢 Easy | cpp | 2026-03-19 |

@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 254
+- **Total Problems Solved:** 255
 - **Easy:** 103 🟢
-- **Medium:** 136 🟡
+- **Medium:** 137 🟡
 - **Hard:** 15 🔴
 
 ## 📝 Problems
@@ -188,6 +188,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1925868893/) | 🟡 Medium | cpp | 2026-02-21 |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1934056120/) | 🟡 Medium | cpp | 2026-02-28 |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1934064128/) | 🟡 Medium | cpp | 2026-02-28 |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1955165162/) | 🟡 Medium | cpp | 2026-03-21 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/1922539700/) | 🟡 Medium | cpp | 2026-02-17 |
 | [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 🟡 Medium | cpp | 2026-03-15 |
 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/submissions/1931487285/) | 🟡 Medium | cpp | 2026-02-26 |

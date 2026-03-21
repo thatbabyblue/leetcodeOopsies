@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 253
-- **Easy:** 102 🟢
+- **Total Problems Solved:** 254
+- **Easy:** 103 🟢
 - **Medium:** 136 🟡
 - **Hard:** 15 🔴
 
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | 🟢 Easy | cpp | 2026-02-22 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1947545298/) | 🟢 Easy | cpp | 2026-03-14 |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/1922970645/) | 🟢 Easy | cpp | 2026-02-18 |
+| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/1955067741/) | 🟢 Easy | cpp | 2026-03-21 |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1942282476/) | 🟢 Easy | cpp | 2026-03-08 |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1942275995/) | 🟢 Easy | cpp | 2026-03-08 |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 🟢 Easy | cpp | 2026-02-16 |
